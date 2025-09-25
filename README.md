@@ -2,4 +2,4 @@
 Example of Git Course
 
 
-##Project Notes
+## Project Notes
